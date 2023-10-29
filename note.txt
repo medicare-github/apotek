@@ -1,0 +1,10 @@
+level user
+expired produk
+limit stok
+tampilan
+manufaktur -> ubah menu pembelian
+-utang/cash (tempo sebulan)
+-hasil itung valid/not valid
+laporan bulanan tahunan harian
+
+
